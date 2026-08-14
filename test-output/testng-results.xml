@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-14T13:28:56 IST" name="MyCarHelpline Suite" finished-at="2026-08-14T13:29:55 IST" duration-ms="59640">
+    <groups>
+    </groups>
+    <test started-at="2026-08-14T13:28:56 IST" name="All Car Helpline Tests" finished-at="2026-08-14T13:29:55 IST" duration-ms="59640">
+      <class name="testcases.XPathTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.XPathTest@6ca18a14]" started-at="2026-08-14T13:29:45 IST" name="setUp" finished-at="2026-08-14T13:29:48 IST" duration-ms="3333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchUsingXPath()[pri:0, instance:testcases.XPathTest@6ca18a14]" started-at="2026-08-14T13:29:48 IST" name="verifySearchUsingXPath" finished-at="2026-08-14T13:29:50 IST" duration-ms="1911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchUsingXPath -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.XPathTest@6ca18a14]" started-at="2026-08-14T13:29:50 IST" name="tearDown" finished-at="2026-08-14T13:29:50 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.XPathTest -->
+      <class name="testcases.UsedCarValuationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.UsedCarValuationTest@13d9cbf5]" started-at="2026-08-14T13:29:35 IST" name="setUp" finished-at="2026-08-14T13:29:38 IST" duration-ms="2762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFooterSection()[pri:0, instance:testcases.UsedCarValuationTest@13d9cbf5]" started-at="2026-08-14T13:29:38 IST" name="verifyFooterSection" finished-at="2026-08-14T13:29:38 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFooterSection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.UsedCarValuationTest@13d9cbf5]" started-at="2026-08-14T13:29:38 IST" name="tearDown" finished-at="2026-08-14T13:29:38 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.UsedCarValuationTest -->
+      <class name="testcases.CarSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.CarSearchTest@7905a0b8]" started-at="2026-08-14T13:29:05 IST" name="setUp" finished-at="2026-08-14T13:29:08 IST" duration-ms="3204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchOrHeaderSection()[pri:0, instance:testcases.CarSearchTest@7905a0b8]" started-at="2026-08-14T13:29:08 IST" name="verifySearchOrHeaderSection" finished-at="2026-08-14T13:29:08 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchOrHeaderSection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CarSearchTest@7905a0b8]" started-at="2026-08-14T13:29:08 IST" name="tearDown" finished-at="2026-08-14T13:29:08 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.CarSearchTest -->
+      <class name="testcases.WaitTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.WaitTest@c667f46]" started-at="2026-08-14T13:29:50 IST" name="setUp" finished-at="2026-08-14T13:29:54 IST" duration-ms="3035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchUsingWait()[pri:0, instance:testcases.WaitTest@c667f46]" started-at="2026-08-14T13:29:54 IST" name="verifySearchUsingWait" finished-at="2026-08-14T13:29:55 IST" duration-ms="1629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchUsingWait -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.WaitTest@c667f46]" started-at="2026-08-14T13:29:55 IST" name="tearDown" finished-at="2026-08-14T13:29:55 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.WaitTest -->
+      <class name="testcases.HomeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.HomeTest@4a07d605]" started-at="2026-08-14T13:28:56 IST" name="setUp" finished-at="2026-08-14T13:29:00 IST" duration-ms="4608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitle()[pri:0, instance:testcases.HomeTest@4a07d605]" started-at="2026-08-14T13:29:00 IST" name="verifyHomePageTitle" finished-at="2026-08-14T13:29:00 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.HomeTest@4a07d605]" started-at="2026-08-14T13:29:00 IST" name="tearDown" finished-at="2026-08-14T13:29:01 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.HomeTest -->
+      <class name="testcases.SearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SearchTest@478db956]" started-at="2026-08-14T13:29:38 IST" name="setUp" finished-at="2026-08-14T13:29:43 IST" duration-ms="4791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearch()[pri:0, instance:testcases.SearchTest@478db956]" started-at="2026-08-14T13:29:43 IST" name="verifySearch" finished-at="2026-08-14T13:29:45 IST" duration-ms="1954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SearchTest@478db956]" started-at="2026-08-14T13:29:45 IST" name="tearDown" finished-at="2026-08-14T13:29:45 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.SearchTest -->
+      <class name="testcases.FuelCalculatorTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:08 IST" name="setUp" finished-at="2026-08-14T13:29:11 IST" duration-ms="2854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyButtons()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:11 IST" name="verifyButtons" finished-at="2026-08-14T13:29:11 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButtons -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:11 IST" name="teardown" finished-at="2026-08-14T13:29:11 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:11 IST" name="setUp" finished-at="2026-08-14T13:29:15 IST" duration-ms="3083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInputFields()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:15 IST" name="verifyInputFields" finished-at="2026-08-14T13:29:15 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInputFields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:15 IST" name="teardown" finished-at="2026-08-14T13:29:15 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:15 IST" name="setUp" finished-at="2026-08-14T13:29:18 IST" duration-ms="2987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLinks()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:18 IST" name="verifyLinks" finished-at="2026-08-14T13:29:18 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:18 IST" name="teardown" finished-at="2026-08-14T13:29:18 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:18 IST" name="setUp" finished-at="2026-08-14T13:29:21 IST" duration-ms="3232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPageHeading()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:21 IST" name="verifyPageHeading" finished-at="2026-08-14T13:29:21 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageHeading -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:21 IST" name="teardown" finished-at="2026-08-14T13:29:22 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:22 IST" name="setUp" finished-at="2026-08-14T13:29:25 IST" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchBox()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:25 IST" name="verifySearchBox" finished-at="2026-08-14T13:29:25 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBox -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:25 IST" name="teardown" finished-at="2026-08-14T13:29:25 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:25 IST" name="setUp" finished-at="2026-08-14T13:29:28 IST" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchFunctionality()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:28 IST" name="verifySearchFunctionality" finished-at="2026-08-14T13:29:31 IST" duration-ms="2357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.FuelCalculatorTest@35a3d49f]" started-at="2026-08-14T13:29:31 IST" name="teardown" finished-at="2026-08-14T13:29:31 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.FuelCalculatorTest -->
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginTest@51bf5add]" started-at="2026-08-14T13:29:01 IST" name="setUp" finished-at="2026-08-14T13:29:04 IST" duration-ms="3559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePage()[pri:0, instance:testcases.LoginTest@51bf5add]" started-at="2026-08-14T13:29:04 IST" name="verifyHomePage" finished-at="2026-08-14T13:29:04 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@51bf5add]" started-at="2026-08-14T13:29:04 IST" name="tearDown" finished-at="2026-08-14T13:29:05 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginTest -->
+      <class name="testcases.CarComparisonTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.CarComparisonTest@389b0789]" started-at="2026-08-14T13:29:31 IST" name="setUp" finished-at="2026-08-14T13:29:34 IST" duration-ms="3379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNavigationLinks()[pri:0, instance:testcases.CarComparisonTest@389b0789]" started-at="2026-08-14T13:29:34 IST" name="verifyNavigationLinks" finished-at="2026-08-14T13:29:35 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CarComparisonTest@389b0789]" started-at="2026-08-14T13:29:35 IST" name="tearDown" finished-at="2026-08-14T13:29:35 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.CarComparisonTest -->
+    </test> <!-- All Car Helpline Tests -->
+  </suite> <!-- MyCarHelpline Suite -->
+</testng-results>

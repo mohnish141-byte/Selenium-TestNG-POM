@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="MyCarHelpline Suite">
+
+    <!-- Extent Report Listener -->
+    <listeners>
+        <listener class-name="utilities.TestListener"/>
+    </listeners>
+
+    <test name="All Car Helpline Tests">
+
+        <classes>
+
+            <!-- Existing Tests -->
+            <class name="testcases.HomeTest"/>
+            <class name="testcases.LoginTest"/>
+            <class name="testcases.CarSearchTest"/>
+            <class name="testcases.FuelCalculatorTest"/>
+            <class name="testcases.CarComparisonTest"/>
+            <class name="testcases.UsedCarValuationTest"/>
+            <class name="testcases.SearchTest"/>
+
+            <!-- New Selenium Practice Tests -->
+            <class name="testcases.XPathTest"/>
+            <class name="testcases.WaitTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
